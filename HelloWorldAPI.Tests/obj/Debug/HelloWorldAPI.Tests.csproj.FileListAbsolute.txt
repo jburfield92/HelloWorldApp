@@ -1,0 +1,6 @@
+D:\HelloWorldApp\HelloWorldAPI.Tests\obj\Debug\HelloWorldAPI.Tests.csprojResolveAssemblyReference.cache
+D:\HelloWorldApp\HelloWorldAPI.Tests\bin\Debug\HelloWorldAPI.Tests.dll
+D:\HelloWorldApp\HelloWorldAPI.Tests\bin\Debug\HelloWorldAPI.Tests.pdb
+D:\HelloWorldApp\HelloWorldAPI.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\HelloWorldApp\HelloWorldAPI.Tests\obj\Debug\HelloWorldAPI.Tests.dll
+D:\HelloWorldApp\HelloWorldAPI.Tests\obj\Debug\HelloWorldAPI.Tests.pdb

@@ -1,0 +1,14 @@
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldAPI.dll
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldAPI.pdb
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+D:\HelloWorldApp\HelloWorldAPI\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
+D:\HelloWorldApp\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+D:\HelloWorldApp\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+D:\HelloWorldApp\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
+D:\HelloWorldApp\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+D:\HelloWorldApp\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+D:\HelloWorldApp\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
